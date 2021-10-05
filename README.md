@@ -1,2 +1,8 @@
 # ProjFinal_N2
-Sophia Mendes da Silveira/Jean Garra/João Pedro Bertoletti/Gustavo Barreto
+Participantes: 
+-Sophia Mendes da Silveira;
+-Jean Garra;
+-João Pedro Bertoletti;
+-Gustavo Barreto.
+
+#Etapa 1: 05/10/2021
