@@ -54,20 +54,16 @@ Participantes:
   
   #Fluxograma
    Entro- Pagina principal - aplicativos para deficientes 
-                                                          -visuais
-                                                               app de fotos- lista de apps- usuários que usaram = opinião + nota + link pro app.
-                                                               sites de fotos - lista de sites- usuários que usaram = opinião + nota + link pro app.
+           -visuais
+             app de fotos- lista de apps- usuários que usaram = opinião + nota + link pro app.
+             sites de fotos - lista de sites- usuários que usaram = opinião + nota + link pro app.
                                                                
-                                                               app de música- lista de apps- usuários que usaram = opinião + nota + link pro app.
-                                                               sites de música - lista de sites- usuários que usaram = opinião + nota + link pro app.
-                                                         
-                                                         - auditivos
-                                                              app de fotos- lista de apps- usuários que usaram = opinião + nota + link pro app.
-                                                               sites de fotos - lista de sites- usuários que usaram = opinião + nota + link pro app.
-                                                               
-                                                          - sugestões
-                                                               para tipos de acessibilidade(tipos de deficiencia)
-                                                               sugestões de apps para lista.
+            app de música- lista de apps- usuários que usaram = opinião + nota + link pro app.
+            sites de música - lista de sites- usuários que usaram = opinião + nota + link pro app.
+                                                                          
+         - sugestões
+         para tipos de acessibilidade(tipos de deficiencia)
+        sugestões de apps para lista.
                                                                
                                                                
                                                                
