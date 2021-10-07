@@ -37,6 +37,19 @@ Participantes:
   >Fase 5: Refinamento: Melhorias conforme a construção do programa.
  
  #Etapa 2: 06/10/2021.
+ 
+ >O que cada integrante do grupo ira pesquisar:
+
+ >Jean:
+  Formas da pessoa conseguir mandar um audio para o aplicativo(integrar um gravador de audio no app)
+
+ >Joao Pedro:
+  Maneira de fazer um teste Drive
+
+ >Sophia:
+  Sistema de notas para o app
+
+ >Gustavo:
   
   
   #Fluxograma
@@ -55,6 +68,11 @@ Participantes:
                                                           - sugestões
                                                                para tipos de acessibilidade(tipos de deficiencia)
                                                                sugestões de apps para lista.
+                                                               
+                                                               
+                                                               
+ ![fluxograma projeto final](https://user-images.githubusercontent.com/89792528/136303716-06ef741b-dacc-4677-8036-c172c337a4e8.jpeg)
+                                                              
 
 -------------------------------------------
 Review: excelente trabalho galera!! 
