@@ -53,5 +53,3 @@ Participantes:
                                                           - sugestões
                                                                para tipos de acessibilidade(tipos de deficiencia)
                                                                sugestões de apps para lista.
-
-![fluxograma projeto final](https://user-images.githubusercontent.com/89792528/136124950-d3f91370-e33f-4f88-afbd-55f56678891b.jpeg)
