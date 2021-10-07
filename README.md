@@ -88,3 +88,8 @@ Participantes:
 
 -------------------------------------------
 Review: excelente trabalho galera!! 
+--------------------------------------------
+# Review 07/10
+Continua sendo excelente o trabalho, agora que já temos o esboço do diagrama de classe, podemos refinar para um diagrama de classe UML.
+Continuem assim!  :star_struck:
+
