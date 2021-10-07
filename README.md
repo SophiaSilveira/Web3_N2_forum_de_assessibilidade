@@ -35,6 +35,8 @@ Participantes:
   >Fase 4: Prototipação e validação: Mão na massa.
   
   >Fase 5: Refinamento: Melhorias conforme a construção do programa.
+ 
+ #Etapa 2: 06/10/2021.
   
   
   #Fluxograma
