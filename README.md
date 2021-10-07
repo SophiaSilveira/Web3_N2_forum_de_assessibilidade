@@ -42,6 +42,7 @@ Participantes:
 
  >Jean:
   Formas da pessoa conseguir mandar um audio para o aplicativo(integrar um gravador de audio no app)
+  https://canaltech.com.br/apps/5-aplicativos-ajudar-deficientes-visuais/
 
  >Joao Pedro:
   Maneira de fazer um teste Drive
@@ -68,6 +69,14 @@ Participantes:
                                                                
                                                                
  ![fluxograma projeto final](https://user-images.githubusercontent.com/89792528/136303716-06ef741b-dacc-4677-8036-c172c337a4e8.jpeg)
+ 
+ 
+ 
+ 
+ #Diagrama:
+ 
+ ![Diagrama do ProjetoFinal_N2](https://user-images.githubusercontent.com/89792528/136304995-042bfe1c-9357-4257-81ed-f2d7075ed8fc.jpeg)
+
                                                               
 
 -------------------------------------------
