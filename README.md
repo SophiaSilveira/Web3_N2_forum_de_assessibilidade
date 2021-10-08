@@ -42,10 +42,10 @@ Participantes:
 
  >Jean:
   Formas da pessoa conseguir mandar um audio para o aplicativo(integrar um gravador de audio no app)
-  https://canaltech.com.br/apps/5-aplicativos-ajudar-deficientes-visuais/
+  
 
  >Joao Pedro:
-  Maneira de fazer um teste Drive
+  Pesquisar sobre os aplicativos
 
  >Sophia:
   Sistema de notas para o app
@@ -80,9 +80,12 @@ Participantes:
      
      
 #Etapa 3: 07/10/2021
+Modificações:
+No diagrama na classe "Comentario Audio" nós não colocamos nenhuma informação ainda, pois estamos pesquisando como fazer essa classe de forma funcional.
+Também separamos o que seria o conteúdo HTML, Java e JavaScript.
+Nós retiramos a classe Test-Drive, pois haviamos pensado em integrar no site uma prévia dos aplicativos, no entanto devido ao pouco tempo isto não será possivel.
 
-
-
+![Diagrama UML](https://user-images.githubusercontent.com/89792528/136479356-cb5ffb46-20d5-4962-8f79-87ec263eb5d7.JPG)
 
 
 
