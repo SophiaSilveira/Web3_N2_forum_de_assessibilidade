@@ -21,18 +21,18 @@ Participantes:
     Web Semântica - Acessibilidade Web - https://www.youtube.com/watch?v=H8MhWDBYZ9w&ab_channel=iMasters
     
   *Aplicativos:
-  http://www.ce.ufpb.br/nedesp/contents/noticias/cinco-aplicativos-para-ajudar-deficientes-visuais
-  https://extra.globo.com/noticias/saude-e-ciencia/aplicativos-para-celular-ajudam-cegos-com-tarefas-desafios-do-dia-dia-24138294.html
-  https://support.apple.com/pt-br/guide/iphone/iph3e2e415f/ios
-  https://canaltech.com.br/software/talkback-o-que-e/
-  https://www.cpqd.com.br/cpqd-alcance/#:~:text=Conhe%C3%A7a%20o%20CPQD%20Alcance%2B&text=%C3%89%20uma%20plataforma%20acess%C3%ADvel%20com,dos%20smartphones%20pelos%20deficientes%20visuais
-  https://g1.globo.com/sp/campinas-regiao/noticia/aplicativo-de-celular-criado-no-cpqd-ajuda-deficiente-visual-a-conferir-valor-pago-com-cartao.ghtml
+  http://www.ce.ufpb.br/nedesp/contents/noticias/cinco-aplicativos-para-ajudar-deficientes-visuais;
+  https://extra.globo.com/noticias/saude-e-ciencia/aplicativos-para-celular-ajudam-cegos-com-tarefas-desafios-do-dia-dia-24138294.html;
+  https://support.apple.com/pt-br/guide/iphone/iph3e2e415f/ios;
+  https://canaltech.com.br/software/talkback-o-que-e/;
+  https://www.cpqd.com.br/cpqd-alcance/#:~:text=Conhe%C3%A7a%20o%20CPQD%20Alcance%2B&text=%C3%89%20uma%20plataforma%20acess%C3%ADvel%20com,dos%20smartphones%20pelos%20deficientes%20visuais;
+  https://g1.globo.com/sp/campinas-regiao/noticia/aplicativo-de-celular-criado-no-cpqd-ajuda-deficiente-visual-a-conferir-valor-pago-com-cartao.ghtml;
   
   *Link para baixar os apps:
-  https://play.google.com/store/apps/details?id=com.googlecode.eyesfree.brailleback&hl=pt_BR&gl=US
-  https://play.google.com/store/apps/details?id=br.com.cpqd.core.alcancemais&hl=pt_BR&gl=US
-  https://play.google.com/store/apps/details?id=com.RK.voiceover&hl=pt_BR&gl=US
-  https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback&hl=pt_BR&gl=US
+  https://play.google.com/store/apps/details?id=com.googlecode.eyesfree.brailleback&hl=pt_BR&gl=US;
+  https://play.google.com/store/apps/details?id=br.com.cpqd.core.alcancemais&hl=pt_BR&gl=US;
+  https://play.google.com/store/apps/details?id=com.RK.voiceover&hl=pt_BR&gl=US;
+  https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback&hl=pt_BR&gl=US;
   
     >Pesquisar apps que tem acessibilidade para ver o que fazer e como.
 
@@ -59,7 +59,15 @@ Participantes:
   
 
  >Joao Pedro:
-  Pesquisar sobre os aplicativos
+  Pesquisar sobre como transformar o audio em texto para fazer a classe "comentarioTexto".
+  Links sobre Java Speech API e a explicação dele e como funciona:
+  https://silo.tips/download/reconhecimento-e-sintetizaao-de-voz-usando-java-speech;
+  https://www.devmedia.com.br/artigo-java-magazine-04-javaspeech/8916;
+  
+  Video de como usar o text-to-speech no JavaScript:
+  https://www.youtube.com/watch?v=afkRHkdXYH8;
+  
+  
 
  >Sophia:
   Sistema de notas para o app
