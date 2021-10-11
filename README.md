@@ -20,6 +20,12 @@ Participantes:
   *Vídeos:
     Web Semântica - Acessibilidade Web - https://www.youtube.com/watch?v=H8MhWDBYZ9w&ab_channel=iMasters
     
+  *Aplicativos:
+  
+  
+  *Link para baixar os apps:
+  
+  
     >Pesquisar apps que tem acessibilidade para ver o que fazer e como.
 
 #Etapa 1: 05/10/2021.
@@ -42,10 +48,18 @@ Participantes:
 
  >Jean:
   Formas da pessoa conseguir mandar um audio para o aplicativo(integrar um gravador de audio no app)
-  https://canaltech.com.br/apps/5-aplicativos-ajudar-deficientes-visuais/
+  
 
  >Joao Pedro:
-  Maneira de fazer um teste Drive
+  Pesquisar sobre como transformar o audio em texto para fazer a classe "comentarioTexto".
+  Links sobre Java Speech API e a explicação dele e como funciona:
+  https://silo.tips/download/reconhecimento-e-sintetizaao-de-voz-usando-java-speech;
+  https://www.devmedia.com.br/artigo-java-magazine-04-javaspeech/8916;
+  
+  Video de como usar o text-to-speech no JavaScript:
+  https://www.youtube.com/watch?v=afkRHkdXYH8;
+  
+  
 
  >Sophia:
   Sistema de notas para o app
@@ -80,9 +94,12 @@ Participantes:
      
      
 #Etapa 3: 07/10/2021
+Modificações:
+No diagrama na classe "Comentario Audio" nós não colocamos nenhuma informação ainda, pois estamos pesquisando como fazer essa classe de forma funcional.
+Também separamos o que seria o conteúdo HTML, Java e JavaScript.
+Nós retiramos a classe Test-Drive, pois haviamos pensado em integrar no site uma prévia dos aplicativos, no entanto devido ao pouco tempo isto não será possivel.
 
-
-
+![Diagrama UML](https://user-images.githubusercontent.com/89792528/136479356-cb5ffb46-20d5-4962-8f79-87ec263eb5d7.JPG)
 
 
 
