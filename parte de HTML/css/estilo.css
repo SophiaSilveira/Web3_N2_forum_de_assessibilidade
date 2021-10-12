@@ -8,5 +8,53 @@
 }
 
 /* começo do inicio*/
+.principal{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.corinicio{
+    background-color:#FFE4E1;
+}
+
+.h1{
+    margin: 3% 0;
+}
+.texto{
+    font-size: 4vh;
+}
+
+.margem1{
+    margin: 0 10%;
+}
+
+.margem2{
+    margin: 2% 0;
+    margin-left: 40%;
+}
+
+.bnt_i{
+    width: 75%;
+}
+
+.btn_color{
+    background-color: #D8BFD8;
+    text-align: center;
+}
+
+
+.btn_margin1{
+    margin-bottom: 3%;
+}
+
+.btn_color:hover{
+    background-color:#EEE8AA;
+}
+
 
 /* fim do inicio*/
