@@ -25,12 +25,13 @@
 .h1{
     margin: 3% 0;
 }
+
 .texto{
     font-size: 4vh;
 }
 
 .margem1{
-    margin: 0 10%;
+    margin: 0 15%;
 }
 
 .margem2{
@@ -58,3 +59,56 @@
 
 
 /* fim do inicio*/
+
+/*inicio cadastro*/
+
+.corcadastro{
+    background-color: #EEE8AA;
+}
+
+.formC{
+    padding: 2%;
+    margin: 3%;
+    border-radius: 20px;
+    
+}
+
+.formCC{
+    background-color:#E0FFFF ;
+    border: solid #B0E0E6 10px;
+}
+
+.labelt{
+    width: 400px;
+    height: 50px;
+}
+
+.marginform{
+   margin: 5% 10%;
+}
+marginform1{ 
+    margin: 0% 20%;
+}
+
+.h1c{
+    margin-top: 5%;
+}
+
+.enviar{
+    width: 82.8%;
+    height: 50px;
+    border-radius: 20px;
+    background-color: #FFE4B5;
+}
+
+/* fim cadastro*/
+
+/*inicio login*/
+.corlogin{
+    background-color:#FFDAB9;
+}
+
+.formCl{
+    background-color:#E6E6FA;
+    border: solid #D8BFD8 10px;
+}
