@@ -113,3 +113,28 @@ marginform1{
     border: solid #D8BFD8 10px;
 }
 /*fim login*/
+
+.corSugestao{
+    background-color: 	#F0FFF0;
+}
+
+
+.formCS{
+    padding: 2%;
+    border-radius: 20px;
+    width: 60%;
+    height: 60%;
+    margin-bottom: 5%;
+    background-color:#FFFFE0;
+    border: solid #FFEBCD 10px;
+}
+
+.espaco{
+    width: 90%;
+    height: 200px;
+    margin: 3% 5%;
+}
+
+.esquerda{
+    margin-left: 8.5%;
+}
