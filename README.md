@@ -103,6 +103,26 @@ Nós retiramos a classe Test-Drive, pois haviamos pensado em integrar no site um
 
 
 
+#Etapa 4: 13/10/2021
+
+Elaborar o front end do projeto:
+1°: Cores: Tons pasteis;
+2°: Imagem do layou inicial:
+![LayoutInicial](https://user-images.githubusercontent.com/89792528/137232714-2f305908-5537-4263-a2ec-f189ed262622.jpeg)
+
+
+
+3°: Fluxo do front end:
+index.inicio > index.cadastro > inex.login >
+index.html(Aqui tem opções de seleção) >
+       opção 1: index.IOS
+       opção 2: index.Android
+       opção 3: index.Android/IOS
+       opção 4: index sugestão
+
+
+Obs: Ainda não concluimos as outras classes para colocar as imagens de como ficaria o front end mas colocamos a inicial para mostrar a base de como os outros podem ficar. Conforme vamos fazendo o front end também vamos atualizando no Git.
+
 -------------------------------------------
 Review: excelente trabalho galera!! 
 --------------------------------------------
