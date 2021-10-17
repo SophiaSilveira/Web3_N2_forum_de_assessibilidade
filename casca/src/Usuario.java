@@ -2,13 +2,23 @@
 
 
 public class Usuario {
-    String usuario;
-    String senha;
+    private String usuario;
+    private String senha;
     
-    //ver como usar caracteres especiais
+    public void setUsuario(String usuario){
+        this.usuario = usuario;
+    }
+    public String getUsuario(){
+        return usuario;
+    }
 
-    //setters
-    //getters
-   //banco de dados
-   //to string
+    public void setSenha(String senha){
+        this.senha = senha;
+    }
+
+    public String getSenha(){
+        return senha;
+    }
+
+    
 }
