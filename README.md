@@ -123,6 +123,15 @@ index.html(Aqui tem opções de seleção) >
 
 Obs: Ainda não concluimos as outras classes para colocar as imagens de como ficaria o front end mas colocamos a inicial para mostrar a base de como os outros podem ficar. Conforme vamos fazendo o front end também vamos atualizando no Git.
 
+17/10/2021
+Classes:
+Usuario - Feito;
+Cadastro- Feito;
+Nota - Em contrução;
+Comentário Audio - Jean;
+Comentário Texto - Em construção
+
+
 -------------------------------------------
 Review: excelente trabalho galera!! 
 --------------------------------------------
