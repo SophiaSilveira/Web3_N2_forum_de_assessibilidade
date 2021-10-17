@@ -32,6 +32,7 @@ public class Main {
             
                     c1.adicionarUsuario(u1);
                     System.out.println("cadastro efetuado com sucesso");
+
                     break;
                 case 2:
                         if(c1.getFila().isEmpty()) {
@@ -46,9 +47,10 @@ public class Main {
                         String valor = ler.next();
                         Usuario resultado = c1.pesquisarPelaSenha(valor);
                         if(resultado == null) {
-                            System.out.println("Não há cliente na fila");
+                            System.out.println("Senha não reconhecida, tente se cadastrar");
                         }else{
                             System.out.println(resultado);
+                            //<a><button> lista
                         }
 
                     break;
