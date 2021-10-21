@@ -132,10 +132,22 @@ Comentário Audio - Jean;
 Comentário Texto - Em construção
 
 
+
+Data: 19/10/2021
+
+Tentativa de integração falhou!
+Inicio do Java separado.
+
+data: 20/10/2021
+
+Termino do Projeto sem a integração do Java com o Html e Css. Foi feito os dois de forma separada e estão ambos funcionando.
+
 -------------------------------------------
 Review: excelente trabalho galera!! 
 --------------------------------------------
 # Review 07/10
 Continua sendo excelente o trabalho, agora que já temos o esboço do diagrama de classe, podemos refinar para um diagrama de classe UML.
 Continuem assim!  :star_struck:
+
+
 
