@@ -1,0 +1,384 @@
+@charset "UTF-8";
+
+*{
+    padding: 0%;
+    margin: 0%;
+
+    font-family: 'Bellefair', serif;
+}
+
+/* começo do inicio*/
+.principal{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.corinicio{
+    background-color:#FFE4E1;
+}
+
+.h1{
+    margin: 3% 0;
+}
+
+.texto{
+    font-size: 4vh;
+}
+
+.margem1{
+    margin: 0 15%;
+}
+
+.margem2{
+    margin: 2% 0;
+    margin-left: 40%;
+}
+
+.bnt_i{
+    width: 75%;
+}
+
+.btn_color{
+    background-color: #D8BFD8;
+    text-align: center;
+}
+
+
+.btn_margin1{
+    margin-bottom: 3%;
+}
+
+.btn_color:hover{
+    background-color:#EEE8AA;
+}
+
+
+/* fim do inicio*/
+
+/*inicio cadastro*/
+
+.corcadastro{
+    background-color: #EEE8AA;
+}
+
+.formC{
+    padding: 2%;
+    margin: 3%;
+    border-radius: 20px;
+    
+}
+
+.formCC{
+    background-color:#E0FFFF ;
+    border: solid #B0E0E6 10px;
+}
+
+.labelt{
+    width: 400px;
+    height: 50px;
+}
+
+.marginform{
+   margin: 5% 10%;
+}
+.marginform1{ 
+    margin: 0% 10%;
+}
+
+.h1c{
+    margin-top: 5%;
+}
+
+.enviar{
+    width: 82.8%;
+    height: 50px;
+    border-radius: 20px;
+    background-color: #FFE4B5;
+
+}
+
+/* fim cadastro*/
+
+/*inicio login*/
+.corlogin{
+    background-color:#FFDAB9;
+}
+
+.formCl{
+    background-color:#E6E6FA;
+    border: solid #D8BFD8 10px;
+}
+/*fim login*/
+
+/*inicio sugestao*/
+.corSugestao{
+    background-color: 	#F0FFF0;
+}
+
+
+.formCS{
+    padding: 2%;
+    border-radius: 20px;
+    width: 60%;
+    height: 60%;
+    margin-bottom: 5%;
+    background-color:#FFFFE0;
+    border: solid #FFEBCD 10px;
+}
+
+.espaco{
+    width: 90%;
+    height: 200px;
+    margin: 3% 5%;
+}
+
+.esquerda{
+    margin-left: 8.5%;
+}
+
+
+
+/*fim sugestao*/
+
+/* começo do inicio*/
+
+/* fim do inicio*/
+
+/*Inicio das paginas android e ios*/
+.corpo1{
+    text-align: center;
+    margin: 50px;
+    background-color: #FFE4E1;
+    margin-bottom: 20px;
+}
+.title{
+    font-size: 20px;
+    padding-bottom: 20px;
+    color: #524745;   
+}
+.container{
+    box-shadow: 0px 0px 2px 5px #aa8882;
+    padding-top: 10px;
+    border-radius: 30px;
+}
+
+.paragrafo1{
+    font-size: 20px;
+    padding-bottom: 10px;
+    color: black;
+}
+
+.titulo2{
+    font-size: 30px;
+    padding-bottom: 20px;
+    color: #524745;
+}
+
+.paragrafo2{
+    font-size: 23px;
+    padding-bottom: 10px;
+    color: black;
+}
+
+.paragrafo3{
+    font-size: 23px;
+    color: black;
+}
+.link1{
+    text-decoration: none;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.paragrafo4{
+    font-size: 23px;
+    color: black;
+}
+
+.comen1{
+    padding: 50px;
+    padding-right: 10px;
+    font-style:initial;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.botoes{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    box-shadow: 0px 0px 1px 1px #aa8882;
+}
+
+.paragrafo5{
+    font-size: 23px;
+    color: black;
+}
+
+.nota1{
+    padding: 5px;
+    margin-bottom: 20px;
+    padding-right: 10px;
+    font-style:initial;
+    border-radius: 10px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.rodape{
+    margin-top: 50px;
+    margin-bottom: -10px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Inicio Tela da Index/Lista inicial dos aplicativos de IOS/ANDROID*/
+
+
+
+/*Fim da tela da index*/
