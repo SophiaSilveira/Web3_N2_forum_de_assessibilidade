@@ -24,7 +24,6 @@ public class Cadastro {
         this.fila.add(u);
     }
 
-    
     public Usuario pesquisarPelaSenha(String senha) {
         Usuario u2 = null;
         for(int i = 0; i <this.fila.size(); i++) {
@@ -33,10 +32,5 @@ public class Cadastro {
             }
         }
         return u2;
-    }
-
-    @Override
-    public String toString() {
-        return "Fila de Atendimento\n;" + fila;
     }
 }
